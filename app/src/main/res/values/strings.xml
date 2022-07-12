@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Checkbox</string>
+    <string name="select_your_programming_language">Select your programming language</string>
+    <string name="java">java</string>
+    <string name="c">C++</string>
+    <string name="py">Python</string>
+    <string name="cp">C++</string>
+</resources>
